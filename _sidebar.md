@@ -1,4 +1,4 @@
-- [快速了解](/standard/ry01)
+- [快速了解](/standard/CRB-MenuID)
 - [使用手册](/standard/ry01)
 - [后台手册](/standard/ry01)
 - [前端手册](/standard/ry01)
